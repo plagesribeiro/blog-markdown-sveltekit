@@ -1,19 +1,21 @@
-export const siteName = 'SvelteKit Blog Template'
+export const siteName = `Segundo Cérebro do Lages`
 
-export const authorName = 'Author Name'
+export const authorName = 'Pedro Lages Ribeiro'
 
-export const website = `https://thesveltekit.com`
+export const website = `https://pedrolagesribeiro.com.br`
 
-export const description = `This project is built with SvelteKit, MDSveX, Tailwind and DaisyUI`
+export const description = `Aqui é onde eu escrevo sobre o que eu aprendo, o que eu penso e o que eu faço... Quando dá!`
+
+export const initials = `PLR`
+export const photoUrl = `/assets/profile.png`
 
 export const pages = [
-  { title: `Home`, path: `/` },
+  { title: `Principal`, path: `/` },
   { title: `Posts`, path: `/posts` },
-  { title: `About`, path: `/about` },
+  { title: `Sobre`, path: `/about` },
 ]
 
 export const socialLinks = [
-  { title: `Twitter`, path: `https://twitter.com/username` },
-  { title: `YouTube`, path: `https://youtube.com/username` },
-  { title: `GitHub`, path: `https://github.com/username` },
+  { title: `Instagram`, path: `https://instagram.com/pedro_lagesr` },
+  { title: `GitHub`, path: `https://github.com/plagesribeiro` },
 ]

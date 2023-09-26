@@ -3,8 +3,7 @@
     "baseUrl": ".",
     "paths": {
       "@components/*": ["src/components/*"],
-      "@lib/*": ["src/lib/*"],
-      "@icons/*": ["src/lib/icons/*"]
+      "@lib/*": ["src/lib/*"]
     }
   },
   "include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.svelte"]

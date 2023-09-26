@@ -11,6 +11,10 @@
         {post.title}
       </h2>
       <div class="font-bold text-accent text-sm mb-4 uppercase">
+        {#if post.subject}
+          {post.subject}
+          <br />
+        {/if}
         <time>{new Date(post.date).toDateString()}</time>
       </div>
     </div>

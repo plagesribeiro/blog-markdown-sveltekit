@@ -2,6 +2,7 @@
 date: 2021-08-30
 title: Make an Email Form Submission with SvelteKit
 published: true
+subject: mestrado
 ---
 
 Bit of preamble before I kick this off, subscribers to my newsletter

@@ -33,5 +33,10 @@
     "theme-change": "2.5.0",
     "truncate-html": "1.0.4",
     "vite": "4.4.9"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "svelte-fa": "^3.0.4"
   }
 }
