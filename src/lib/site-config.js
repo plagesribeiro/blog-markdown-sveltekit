@@ -16,6 +16,10 @@ export const pages = [
 ]
 
 export const socialLinks = [
-  { title: `Instagram`, path: `https://instagram.com/pedro_lagesr` },
   { title: `GitHub`, path: `https://github.com/plagesribeiro` },
+  {
+    title: `LinkedIn`,
+    path: `https://linkedin.com/in/plagesribeiro`,
+  },
+  { title: `Email`, path: `plagesribeiro@gmail.com` },
 ]

@@ -3,7 +3,7 @@
     data-choose-theme
     class="bg-primary text-primary-content pr-9 select select-bordered select-primary select-xs w-full"
   >
-    <option disabled="disabled" selected="selected"
+    <option disabled="disabled" selected="selected" value="retro"
       >Choose a theme</option
     >
     <option value="aqua">Aqua</option>
