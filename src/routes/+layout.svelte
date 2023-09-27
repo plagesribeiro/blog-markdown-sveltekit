@@ -12,7 +12,7 @@
   })
 </script>
 
-<div class="!w-screen h-full overflow-hidden">
+<div class="w-full h-full overflow-hidden">
   <Nav />
 
   <main
